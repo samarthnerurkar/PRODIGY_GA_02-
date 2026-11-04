@@ -93,3 +93,10 @@ files.download("output.png")
 ## 📄 License
 
 MIT License
+
+## 👤 Author
+
+**Samarth Nerurkar**
+
+- GitHub: [@samarthnerurkar](https://github.com/samarthnerurkar)
+- LinkedIn: [Samarth Nerurkar](https://www.linkedin.com/in/samarth-nerurkar/)
