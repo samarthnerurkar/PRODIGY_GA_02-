@@ -1,0 +1,50 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Model Weights and Checkpoints
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+models/
+checkpoints/
+
+# Cache
+.cache/
+huggingface/
+.diffusers_cache/
+
+# Generated Images
+outputs/*
+!outputs/.gitkeep
+
+# Logs
+*.log
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
