@@ -1,4 +1,4 @@
-# 🖼️ Text-to-Image Generation with Stable Diffusion
+# 🖼️ Image Generation With Pre-trained model
 
 A Google Colab notebook that generates images from text prompts using Stable Diffusion v1.5 and the Hugging Face `diffusers` library.
 
