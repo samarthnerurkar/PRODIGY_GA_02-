@@ -73,11 +73,12 @@ files.download("output.png")
 | `guidance_scale` | 7.5 | How strongly the image follows the prompt |
 | `negative_prompt` | blurry, low quality, distorted | What the model should avoid |
 
-## 🖼 Example Prompts
+## 🎬Demo
 
-- `a futuristic city at sunset, highly detailed, digital art`
-- `a cute fluffy cat sitting on a sofa, realistic photo, highly detailed, soft lighting`
-- `a cute cat wearing sunglasses, realistic photo`
+<img width="640" height="640" alt="output_1_futuristic_city" src="https://github.com/user-attachments/assets/69a35cde-6a71-44eb-8a42-57f93c352599" />
+<img width="640" height="640" alt="output_2_cat_on_sofa" src="https://github.com/user-attachments/assets/e5a6e5db-25b7-47da-8763-ba365d54c962" />
+<img width="640" height="640" alt="output_3_cat_sunglasses" src="https://github.com/user-attachments/assets/c618406f-1725-40dc-9763-f1b23c07aa48" />
+
 
 ## 🔄 Workflow
 
